@@ -1,5 +1,5 @@
 # Data Integration Specialist: Technical Questions and Practical Challenge
-Thank you for taking the time to complete this exercise. It includes five brief technical questions followed by a small, practical data-validation challenge. Please spend no more than \*\*60–90 minutes total\*\*. We are interested in your reasoning and judgment, not a production-ready solution.
+Thank you for taking the time to complete this exercise. It includes five brief technical questions followed by a small, practical data-validation challenge. Please spend no more than **60–90 minutes total**. We are interested in your reasoning and judgment, not a production-ready solution.
 
 ## Start Here
 Read the full [Technical Questions and Challenge guide](./Data%20Integration%20Specialist%20-%20Technical%20Questions%20and%20Challenge.docx) before beginning.
