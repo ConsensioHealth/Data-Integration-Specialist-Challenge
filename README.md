@@ -2,12 +2,12 @@
 Thank you for taking the time to complete this exercise. It includes five brief technical questions followed by a small, practical data-validation challenge. Please spend no more than \*\*60–90 minutes total\*\*. We are interested in your reasoning and judgment, not a production-ready solution.
 
 ## Start Here
-Read the full \[Technical Questions and Challenge guide](./Data%20Integration%20Specialist%20-%20Technical%20Questions%20and%20Challenge.docx) before beginning.
+Read the full [Technical Questions and Challenge guide](./Data%20Integration%20Specialist%20-%20Technical%20Questions%20and%20Challenge.docx) before beginning.
 
 The supporting data is in the [`files/`](./files/) directory:
-- \[`feed\_specification.csv`](./files/feed\_specification.csv): Agreed fields, requirements, formats, and allowed values
-- \[`expected\_encounters.csv`](./files/expected\_encounters.csv): The expected synthetic encounter population
-- \[`received\_encounters.csv`](./files/received\_encounters.csv): The synthetic feed provided for pre-go-live review
+- [`feed\_specification.csv`](./files/feed\_specification.csv): Agreed fields, requirements, formats, and allowed values
+- [`expected\_encounters.csv`](./files/expected\_encounters.csv): The expected synthetic encounter population
+- [`received\_encounters.csv`](./files/received\_encounters.csv): The synthetic feed provided for pre-go-live review
 
 ## What to Do
 1. Answer the five technical questions in the guide using brief, concrete examples.
