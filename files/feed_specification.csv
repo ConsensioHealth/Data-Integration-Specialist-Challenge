@@ -1,0 +1,9 @@
+field_name,required,type_format,allowed_values,notes
+encounter_id,Y,"string, pattern ENC#####",,"Unique encounter identifier, exactly one row per encounter."
+facility_code,Y,string,HOSP-A|HOSP-B,Synthetic source facility code.
+patient_account_number,Y,"string, exactly 10 characters",,"Preserve as text, values may begin with zero."
+admit_timestamp,Y,"ISO 8601 datetime, YYYY-MM-DDTHH:MM:SS",,Local synthetic facility timestamp.
+discharge_timestamp,Y,"ISO 8601 datetime, YYYY-MM-DDTHH:MM:SS",,Must be on or after admit_timestamp.
+patient_class,Y,string,IP|OP|ED,"Inpatient, outpatient, or emergency department."
+billing_flag,Y,"string, 1 character",Y|N,Whether the encounter is ready for billing workflow.
+total_charges,Y,"numeric, nonnegative",>=0,"Synthetic total charges, numeric and nonnegative."
